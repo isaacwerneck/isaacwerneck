@@ -32,9 +32,6 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
 <img align="center" alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </a>&#8287;
-<a href="https://www.markdownguide.org/basic-syntax/">
-<img align="center" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-</a>
 
 ###  Frameworks and Libraries
 
@@ -55,7 +52,6 @@
 <a href="https://code.visualstudio.com/">
 <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </a>&#8287;
-<a href="https://notepad-plus-plus.org" alt="Notepad"><img align="center" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"></a>&#8287;
 <a href="https://www.notion.so/pt-br" alt="Notion"><img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </a>&#8287;
 <a href="https://www.adobe.com/br/products/photoshop.html">
