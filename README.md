@@ -52,10 +52,5 @@
 <a href="https://code.visualstudio.com/">
 <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </a>&#8287;
-<a href="https://www.notion.so/pt-br" alt="Notion"><img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-</a>&#8287;
-<a href="https://www.adobe.com/br/products/photoshop.html">
-<img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-071D34.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=57a6f8">
-</a>
 </div>
 
