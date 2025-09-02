@@ -24,15 +24,6 @@
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23FFF000.svg?style=for-the-badge&logo=javascript&logoColor=black">
 </a>&#8287;
 
-###  Markup / Styling
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-<img align="center" alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</a>&#8287;
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-<img align="center" alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-</a>&#8287;
-
 ###  Frameworks and Libraries
 
 <a href="https://nodejs.org/en/" alt="NodeJS"><img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
