@@ -30,7 +30,7 @@ I work at the intersection of **development and business strategy** — building
 
 ---
 
-## � Current Projects
+## 🚧 Current Projects
 
 ### 🧠 Mental Health App — Rio de Janeiro State Government
 Building a mobile application for the state government of Rio de Janeiro focused on **mental health**, working with a cross-functional team on a real public-impact product.
@@ -40,7 +40,7 @@ Building a mobile application for the state government of Rio de Janeiro focused
 
 ---
 
-## �💼 What I Do
+## 💼 What I Do
 
 | Area | Skills |
 |---|---|
