@@ -122,15 +122,6 @@ Building a mobile application for the state government of Rio de Janeiro focused
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isaacwerneck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacwerneck&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 <p align="center">
   <i>"Bridging technology and business — one integration at a time."</i>
 </p>
