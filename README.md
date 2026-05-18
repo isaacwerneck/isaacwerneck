@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Isaac's profile!
+  Welcome!
   <img src="https://static.wikia.nocookie.net/southparkarchives/images/6/6f/KennyMcCormick.png/revision/latest?cb=20170925183820&path-prefix=pt-br" min-width="121px" max-width="121px" width="121px" align="right">
 </h3>
 
@@ -28,17 +28,11 @@ I work at the intersection of **development and business strategy** — building
 - 🤝 Working directly with CEOs and stakeholders to align CRM strategy
 - 🚀 Always looking to bridge the gap between **tech and business**
 
----
+And I also work with some other things like **website**, **app**, and **game development**. I also make some music.
 
-## 🚧 Current Projects
-
-### 🧠 Mental Health App — Rio de Janeiro State Government
-Building a mobile application for the state government of Rio de Janeiro focused on **mental health**, working with a cross-functional team on a real public-impact product.
-- 📱 Mobile: **React Native** + **Android Studio**
-- 🐳 Infrastructure: **Docker**
-- 🔗 HTTP: **Axios**
 
 ---
+
 
 ## 💼 What I Do
 
@@ -49,8 +43,8 @@ Building a mobile application for the state government of Rio de Janeiro focused
 | **Web Integration** | HubSpot forms embedded in websites, form-to-CRM flows |
 | **Reporting** | Dashboard structuring, KPI tracking, sales & marketing analytics |
 | **Stakeholder Management** | Direct communication with CEOs and decision-makers |
-| **Development** | Node.js scripts, API integrations, workflow custom code |
-
+| **Development** | Node.js scripts, API integrations, workflow custom code - Apps, Websites and games development |
+| **Music** | I also make some music |
 ---
 
 ## 🛠️ Tech Stack
