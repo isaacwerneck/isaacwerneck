@@ -44,7 +44,7 @@ And I also work with some other things like **website**, **app**, and **game dev
 | **Reporting** | Dashboard structuring, KPI tracking, sales & marketing analytics |
 | **Stakeholder Management** | Direct communication with CEOs and decision-makers |
 | **Development** | Node.js scripts, API integrations, workflow custom code - Apps, Websites and games development |
-| **Music** | I also make some music |
+| **Music** | FL Studio, HalfCake, MixCraft - Composition,  multi-instrumentalist|
 ---
 
 ## 🛠️ Tech Stack
