@@ -39,12 +39,6 @@ I also work on website, app, and game projects, and I make music.
 - Dashboards and reporting for sales and marketing decisions.
 - Development projects across apps, websites, and games.
 
-## Now
-
-- Building scalable HubSpot automation systems.
-- Improving reporting clarity for decision-makers.
-- Exploring creative development and music production.
-
 ## Tech Stack
 
 ### Languages
