@@ -1,121 +1,91 @@
-<h3 align="center">
-  Welcome!
-  <img src="https://static.wikia.nocookie.net/southparkarchives/images/6/6f/KennyMcCormick.png/revision/latest?cb=20170925183820&path-prefix=pt-br" min-width="121px" max-width="121px" width="121px" align="right">
-</h3>
+# Isaac Werneck
 
 <p align="center">
-  <a href="https://www.instagram.com/isaacwerneckk/"><img width="35em" alt="Instagram" title="Instagram" src="https://www.svgrepo.com/show/111199/instagram.svg"></a>
-  &#8287;
-  <a href="https://www.linkedin.com/in/isaacwerneck/"><img width="35em" alt="Linkedin" title="Linkedin" src="https://www.svgrepo.com/show/205292/linkedin.svg"></a>
+  Web Developer & CRM Analyst
 </p>
 
 <p align="center">
-  <b>Web Developer & CRM Analyst</b> · HubSpot · Node.js · JavaScript
+  HubSpot · Node.js · JavaScript
 </p>
 
----
+<p align="center">
+  <a href="https://soundcloud.com/isazky">
+    <img alt="SoundCloud" title="Listen on SoundCloud" src="https://img.shields.io/badge/SoundCloud-Listen%20Now-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white">
+  </a>
+</p>
 
-## 👋 About Me
+<p align="center">
+  <a href="https://www.instagram.com/isaacwerneckk/">
+    <img width="35em" alt="Instagram" title="Instagram" src="https://www.svgrepo.com/show/111199/instagram.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/isaacwerneck/">
+    <img width="35em" alt="LinkedIn" title="LinkedIn" src="https://www.svgrepo.com/show/205292/linkedin.svg">
+  </a>
+</p>
 
-I'm **Isaac**, a Web Developer and CRM Analyst currently working at **InnLeaders**, a company specialized in CRM solutions for other businesses.
+## About
 
-I work at the intersection of **development and business strategy** — building CRM systems from scratch, automating processes, and integrating platforms to help companies grow smarter.
+I am Isaac, a Web Developer and CRM Analyst at InnLeaders.
 
-- 🏢 Currently @ **InnLeaders** — CRM implementation for multiple companies
-- 🔧 Building HubSpot ecosystems: pipelines, workflows, automations & integrations
-- 💻 Writing custom code inside HubSpot workflows (JavaScript / Node.js)
-- 📊 Structuring dashboards and reporting for business decision-making
-- 🤝 Working directly with CEOs and stakeholders to align CRM strategy
-- 🚀 Always looking to bridge the gap between **tech and business**
+I build CRM systems, automate workflows, and create integrations that connect technical execution to business goals.
 
-And I also work with some other things like **website**, **app**, and **game development**. I also make some music.
+I also work on website, app, and game projects, and I make music.
 
+## What I Do
 
----
+- CRM implementation in HubSpot: pipelines, properties, and business rules.
+- Workflow automation with custom JavaScript and Node.js code.
+- Website and form integrations connected to CRM operations.
+- Dashboards and reporting for sales and marketing decisions.
+- Development projects across apps, websites, and games.
 
+## Now
 
-## 💼 What I Do
+- Building scalable HubSpot automation systems.
+- Improving reporting clarity for decision-makers.
+- Exploring creative development and music production.
 
-| Area | Skills |
-|---|---|
-| **CRM Implementation** | Full HubSpot setup from 0 — pipelines, properties, business rules, spreadsheet imports |
-| **Automation** | Workflows with custom code, lead nurturing, sales automation |
-| **Web Integration** | HubSpot forms embedded in websites, form-to-CRM flows |
-| **Reporting** | Dashboard structuring, KPI tracking, sales & marketing analytics |
-| **Stakeholder Management** | Direct communication with CEOs and decision-makers |
-| **Development** | Node.js scripts, API integrations, workflow custom code - Apps, Websites and games development |
-| **Music** | FL Studio, HalfCake, MixCraft - Composition,  multi-instrumentalist|
----
-
-## 🛠️ Tech Stack
-
-<div align="left">
+## Tech Stack
 
 ### Languages
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23FFF000.svg?style=for-the-badge&logo=javascript&logoColor=black">
-</a>
-&#8287;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-&#8287;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-</a>
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
 ### Frameworks & Libraries
-<a href="https://nodejs.org/en/">
-  <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-</a>
-&#8287;
-<a href="https://expressjs.com/">
-  <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-</a>
-&#8287;
-<a href="https://reactnative.dev/">
-  <img align="center" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-</a>
-&#8287;
-<a href="https://axios-http.com/">
-  <img align="center" alt="Axios" src="https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white">
-</a>
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB">
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+</p>
 
 ### CRM & Platforms
-<a href="https://www.hubspot.com/">
-  <img align="center" alt="HubSpot" src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white">
-</a>
+<p>
+  <img alt="HubSpot" src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white">
+</p>
 
 ### Tools & Environment
-<a href="https://code.visualstudio.com/">
-  <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</a>
-&#8287;
-<a href="https://git-scm.com/">
-  <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-</a>
-&#8287;
-<a href="https://www.microsoft.com/pt-br/software-download/windows11">
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</a>
-&#8287;
-<a href="https://www.docker.com/">
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-</a>
-&#8287;
-<a href="https://developer.android.com/studio">
-  <img align="center" alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
-</a>
+<p>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+</p>
 
 ### Cloud & Hosting
-<a href="https://pages.github.com">
-  <img align="center" alt="GitHub Pages" src="https://img.shields.io/badge/github-%23123F6D.svg?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
+<p>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
 ---
 
 <p align="center">
-  <i>"Bridging technology and business — one integration at a time."</i>
+  <i>Bridging technology and business, one integration at a time.</i>
 </p>
