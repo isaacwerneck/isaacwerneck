@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/artist/6uQDCOy4WO48FHFbT4AXyC?si=zO9J5r-xRSmtQOwRjP-O8A">
-    <img alt="Spotify" title="Listen on Spotify" src="https://img.shields.io/badge/Spotify-Listen%20Now-FF5500?style=for-the-badge&logo=spotify&logoColor=white">
+    <img alt="Spotify" title="Listen on Spotify" src="https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
 
