@@ -1,16 +1,16 @@
 # Isaac Werneck
 
 <p align="center">
-  Web Developer & CRM Analyst
+  Web Developer - CRM Analyst - Music Producer
 </p>
 
 <p align="center">
-  HubSpot · Node.js · JavaScript
+  HubSpot · Node.js · JavaScript · FL Studio · Photoshop
 </p>
 
 <p align="center">
-  <a href="https://soundcloud.com/isazky">
-    <img alt="SoundCloud" title="Listen on SoundCloud" src="https://img.shields.io/badge/SoundCloud-Listen%20Now-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white">
+  <a href="https://open.spotify.com/artist/6uQDCOy4WO48FHFbT4AXyC?si=zO9J5r-xRSmtQOwRjP-O8A">
+    <img alt="Spotify" title="Listen on Spotify" src="https://img.shields.io/badge/Spotify-Listen%20Now-FF5500?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
 
